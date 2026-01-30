@@ -8,6 +8,7 @@ Bu proje, GLiNER (Generalist Model for Named Entity Recognition) mimarisini kull
 
 This project utilizes the "Vitamins and Supplements NER and Span Dataset". If you use this model or dataset in your research, please cite the original work as requested by the author:
 
+```bibtex
 @inproceedings{altinok-2023-diverse,
     title = "A Diverse Set of Freely Available Linguistic Resources for {T}urkish",
     author = "Altinok, Duygu",
